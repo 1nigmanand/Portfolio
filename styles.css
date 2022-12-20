@@ -5,6 +5,9 @@
     font-size: 7px;
   }
 }
+/* #project-body{
+    background-image: url('ProjectManagement.jpg');
+} */
 .link-eve{
     font-size: 25px;
     color: white;
@@ -12,6 +15,7 @@
     padding: 5px;
     border-radius: 10px;
 }
+
 .nav-brand{
     background-color: turquoise;
     color: black;
@@ -93,11 +97,21 @@ body{
     margin: auto;
     display: block;
 }
-.hero .hero-heading{
+.hero1{
     padding-top: 1r;
     text-align: center;
 }
-.hero .heading-inverted{
+.hero .hero-heading{
+    padding-top: 1r;
+    text-align: center;
+    background-color: burlywood;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;
+    border-radius: 2rem;
+}
+.hero1 .heading-inverted{
     color: gray;   
 }
 .hero-heading{
